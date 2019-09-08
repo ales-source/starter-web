@@ -3,3 +3,5 @@
 User-agent: *
 
 nekaj sem dodal
+
+spet sem nekaj dodatl
