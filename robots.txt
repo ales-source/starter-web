@@ -1,3 +1,7 @@
 # robotstxt.org/
 
 User-agent: *
+
+nekaj sem dodal
+
+se nekaj sem dodal na masterju
